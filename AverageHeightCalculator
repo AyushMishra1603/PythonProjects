@@ -8,8 +8,8 @@ for n in range(0, len(student_heights)):
 
 #Write your code below this row 👇
   n += 1
-b=0
-for a in student_heights:
-  b += a 
-Average = round(b/n)
+TotalHeight=0
+for Height in student_heights:
+  TotalHeight += Height 
+Average = round(TotalHeight/n)
 print(f"Average height of Students is {Average}")
