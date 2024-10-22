@@ -4,6 +4,7 @@ import Hangman_art
 from Hangman_art import stages
 from Hangman_art import logo
 # import Hangman_art
+
 print(logo)
 print("Welcome to the Hangman Game!")
 # Randomly choosing a word using Hangman_words module
