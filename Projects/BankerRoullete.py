@@ -1,6 +1,8 @@
 import random
+
 #Enter the names of your friends!
 Name = input("Please enter the name of your friends!\n")
+
 #Placing the names into indexes of List
 Name_List = Name.split(",")
 ListLength = len(Name_List)
