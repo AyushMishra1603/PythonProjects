@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a29d71c0-d99a-4242-a762-6489b125ce3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonProjects" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProjects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonProjects/AverageHeightCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProjects/AverageHeightCalculator.py" afterDir="false" />
     </list>
@@ -29,12 +30,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AverageHeightCalculator.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Python_Projects"
+    "last_opened_file_path": "C:/PythonSelenium/Python_selenium"
   }
 }]]></component>
   <component name="RunManager">
